@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  table {
+    border-collapse: collapse;
+ }
+
+.main {
+    text-align: center;
+    color: white;
+}
+
+.main-line {
+    font-size: 17px;
+    background-color: rgb(134, 134, 185);
+    text-align: center;
+    color: white;
+}
+
+.starter {
+    background-color: rgb(87, 87, 133);
+    padding: 15px 3px 15px 3px;
+}
+
+.econom {
+    background-color: rgb(44, 44, 99);
+    padding: 15px 3px 15px 3px;
+}
+
+.standard {
+    background-color: rgb(28, 28, 75);
+    padding: 15px 3px 15px 3px;
+}
+
+.professional {
+    background-color: rgb(15, 15, 50);
+    padding: 15px 3px 15px 3px;
+}
+
+.color {
+    background-color: rgb(251, 251, 251);
+    width: 1000px;
+}
+
+.dollar {
+    font-size: 40px;
+}
+
+.Gb {
+    text-align: center;
+    padding: 10px;
+}
+
+.btn {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.dark {
+    background-color: rgb(230, 230, 230);
+}
+
+.blond {
+    background-color: rgb(244, 244, 244);
+}
+
+.column-left {
+    padding-left: 30px;
+}
+
+button {
+    border: 2px solid #9b9b9b;
+    padding: 5px 20px 5px 20px;
+    background-color: #d4d4d4;
+}
